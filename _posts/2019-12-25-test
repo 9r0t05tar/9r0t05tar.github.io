@@ -1,0 +1,9 @@
+#### Frontmatter
+---
+layout: post
+title: "test page"
+tags: [태그1, 태그2, 태그3]
+comments: true
+---
+
+This is a test file
