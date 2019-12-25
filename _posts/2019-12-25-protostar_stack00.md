@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "A Full and Comprehensive Style Test"
-tags: [test, style]
-comments: true
+title: "Protostar stack00 writeup"
+tags: [protostar, pwn]
+comments: false
 ---
 
-## 1. Header
