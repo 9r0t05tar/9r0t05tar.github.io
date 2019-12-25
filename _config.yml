@@ -23,8 +23,7 @@ navigation:
 
   - name: About
     url: /about
-  - name: Tags
-    url: /tags
+
 
 # Pagination
 paginate: 3
