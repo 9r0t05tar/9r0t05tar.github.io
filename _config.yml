@@ -19,8 +19,6 @@ avatar: https://raw.githubusercontent.com/9r0t05tar/9r0t05tar.github.io/blob/mas
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Blog
-    url: /
   - name: About
     url: /about
   - name: Tags
