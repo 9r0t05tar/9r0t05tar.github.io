@@ -13,12 +13,14 @@ description: pwner
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/9r0t05tar/9r0t05tar.github.io/blob/master/profile.PNG
+avatar: https://raw.githubusercontent.com/9r0t05tar/9r0t05tar.github.io/master/profile.PNG
+
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
+
   - name: About
     url: /about
   - name: Tags
