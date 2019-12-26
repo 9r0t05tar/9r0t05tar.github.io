@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Protostar stack04 writeup"
+title: "Protostar stack05 writeup"
 tags: [protostar, pwn]
 comments: false
 ---
