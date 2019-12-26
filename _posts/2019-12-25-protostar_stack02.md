@@ -6,6 +6,7 @@ comments: false
 ---
 
 We are given a source code for this challenge
+
 ```
 #include <stdlib.h>
 #include <unistd.h>
