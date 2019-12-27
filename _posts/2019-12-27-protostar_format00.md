@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "protostar format00"
-tags: [resources]
+tags: [protostar]
 comments: false
 ---
 
