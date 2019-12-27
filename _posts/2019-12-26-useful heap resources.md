@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "useful heap exploitation resources"
-tags: [heap]
+tags: [resources]
 comments: false
 ---
 
