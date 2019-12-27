@@ -24,7 +24,7 @@ navigation:
   - name: About
     url: /about
   - name: Tag
-    url: /tag
+    url: /tags
 
 
 # Pagination
