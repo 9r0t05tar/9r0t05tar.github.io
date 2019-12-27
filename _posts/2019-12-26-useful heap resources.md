@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "useful heap resources"
-tags: [heap, pwn]
+tags: [heap]
 comments: false
 ---
 
