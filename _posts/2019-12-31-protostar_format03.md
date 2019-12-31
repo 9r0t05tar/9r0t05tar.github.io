@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Protostar format03 error"
+title: "Protostar format03 writeup"
 tags: [protostar]
 comments: false
 ---
