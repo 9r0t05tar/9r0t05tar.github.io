@@ -42,3 +42,8 @@ In 64 bit binaries, function arguments are passed in certain registers
 </pre>
 
 This information is really useful in binary exploitation because of how simple it is that you just need to find a gadget that pops the register and if you put a value in that value will go into the register.s
+
+
+
+
+###### The posts of 'basics of pwn' is a summary of mine of the posts on https://ctf101.org/binary-exploitation/

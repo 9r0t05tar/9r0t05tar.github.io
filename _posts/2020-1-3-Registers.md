@@ -23,3 +23,10 @@ al - low 8 bits
 
 ah - high 8 bits
 
+
+
+
+
+
+
+###### The posts of 'basics of pwn' is a summary of mine of the posts on https://ctf101.org/binary-exploitation/
