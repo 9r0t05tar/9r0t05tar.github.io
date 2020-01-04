@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Registers"
+title: "Basics of pwn: Registers"
 tags: [basics]
 comments: false
 ---

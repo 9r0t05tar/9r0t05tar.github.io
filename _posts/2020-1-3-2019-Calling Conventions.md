@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Calling Convention"
+title: "Basics of pwn: Calling Convention"
 tags: [basics]
 comments: false
 ---
